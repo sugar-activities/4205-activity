@@ -1,0 +1,7 @@
+Watch Me lets you share a view of your screen with anyone. It does this by running
+a VNC server (x11vnc) on the initiator machine, and running a VNC client (based on
+gtk-vnc-python) on the client.
+
+Watch Me depends on gtk-vnc-python and x11vnc.  Copies of these programs are included
+in the bundle; however, for maximum compatibility, you should install these programs
+using your system's package manager.

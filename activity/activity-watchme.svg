@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#FFFFFF">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Icon"
+   width="48.92"
+   height="43.846"
+   viewBox="0 0 48.92 43.846"
+   overflow="visible"
+   enable-background="new 0 0 48.92 43.846"
+   xml:space="preserve"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="activity-watchme.svg"
+   sodipodi:docbase="/home/bens/olpc3d/range/AcousticMeasure.activity/activity"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata2238"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2236"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 21.923 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="48.919998 : 21.923 : 1"
+     inkscape:persp3d-origin="24.459999 : 14.615334 : 1"
+     id="perspective2393" /></defs><sodipodi:namedview
+   inkscape:window-height="729"
+   inkscape:window-width="1016"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:zoom="9.2824886"
+   inkscape:cx="23.752045"
+   inkscape:cy="19.026166"
+   inkscape:window-x="0"
+   inkscape:window-y="29"
+   inkscape:current-layer="g3242"
+   showgrid="false" />
+
+
+
+
+
+
+
+
+<g
+   id="g3235"><g
+     id="g3242"><path
+       sodipodi:type="arc"
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3233"
+       sodipodi:cx="51.279354"
+       sodipodi:cy="25.801271"
+       sodipodi:rx="7.3256221"
+       sodipodi:ry="8.4567842"
+       d="M 58.604976,25.801271 A 7.3256221,8.4567842 0 1 1 43.953732,25.801271 A 7.3256221,8.4567842 0 1 1 58.604976,25.801271 z"
+       transform="matrix(0.9388262,-0.3443912,0.3443912,0.9388262,-18.665015,12.403548)" /><rect
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:2.31399441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3227"
+       width="13.798601"
+       height="5.5034113"
+       x="-4.401123"
+       y="28.104681"
+       transform="matrix(0.9388262,-0.3443912,0.3443912,0.9388262,0,0)" /><rect
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:2.11370969;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3229"
+       width="18.846722"
+       height="11.090182"
+       x="7.6721964"
+       y="25.419024"
+       transform="matrix(0.9388262,-0.3443912,0.3443912,0.9388262,0,0)" /><rect
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:1.91418922;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3231"
+       width="10.427865"
+       height="18.399866"
+       x="23.408709"
+       y="21.65645"
+       transform="matrix(0.9388262,-0.3443912,0.3443912,0.9388262,0,0)" /><rect
+       style="fill:&fill_color;;fill-opacity:1;stroke:&stroke_color;;stroke-width:1.66383612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3225"
+       width="3.7835145"
+       height="8.9545441"
+       x="-7.6349049"
+       y="26.486843"
+       transform="matrix(0.9388262,-0.3443912,0.3443912,0.9388262,0,0)" /></g></g></svg>

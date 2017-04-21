@@ -1,0 +1,4 @@
+v2: Include gtk-vnc in the bundle using the shim layer. Bundled versions are:
+gtk-vnc-0.3.8-2.fc9.i386.rpm
+gtk-vnc-python-0.3.8-2.fc9.i386.rpm
+http://downloads.sourceforge.net/x11vnc/x11vnc-0.9.8_i386-none-linux

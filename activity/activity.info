@@ -1,0 +1,9 @@
+[Activity]
+name = Watch Me
+activity_version = 3
+service_name = org.sugarlabs.Watchme
+exec = ./ldshim.py sugar-activity watchme.WatchMeActivity
+icon = activity-watchme
+mime_types =
+license = GPLv2
+

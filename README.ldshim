@@ -1,0 +1,18 @@
+Normally, one would add libraries and python modules to a bundle using LD_LIBRARY_PATH
+and PYTHONPATH.  This gives them priority over the systemwide versions of these items.
+However, this is a dangerous approach, as if the included versions are incompatible with
+the system, the program will not run.  ldshim.py creates a safer alternative, by adding
+the bundled binaries to the _end_ of the search path, rather than the beginning, so that
+systemwide binaries take precedence.
+
+To produce a bundle from RPMs, one must download them into the bundle path
+and then execute
+
+cat [name].rpm | rpm2cpio | cpio -di
+
+for each RPM.  This will produce a new root directory tree based on the
+current path.  One may also need to add other binaries to the tree manually
+in directories like usr/bin/.
+
+If adding python modules, it is important to ensure that every directory
+recursively containing the python module is world-readable and executable.
